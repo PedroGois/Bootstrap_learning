@@ -1,0 +1,36 @@
+.quemsomos{
+    background-color: blueviolet;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 80vh;
+    justify-content: space-around;
+}
+.padding{
+    padding: 20px 0px;
+}
+.parceiros{
+    background-color: black;
+    color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 80vh;
+}
+.servicos .container .row{
+    display: flex;
+    justify-content: space-around;
+}
+.servicos .container .row div{
+    padding: 15px;
+    border-radius: 50px;
+    background-color: rgba(162, 0, 255, 0.60);
+}
+
+.bg-footer{
+    background-color: black;
+    color: blueviolet;
+    font-weight: bold;
+}
